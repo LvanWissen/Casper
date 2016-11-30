@@ -1,4 +1,4 @@
-# Erthrit
+# Hapax
 
 A fork of Casper, the default theme for [Ghost](http://github.com/tryghost/ghost/).
 
